@@ -1,1 +1,0 @@
--g -Wall -MMD -MP -MF .d    -isystem /Users/ravitomar/Simulations/omnetpp-5.1.1/tools/macosx/include -Wno-deprecated-register -Wno-unused-function -fno-stack-protector  -DXMLPARSER=libxml -DWITH_TKENV -DWITH_PARSIM -DWITH_NETBUILDER -DWITH_OSG -DWITH_OSGEARTH    -I/Users/ravitomar/Simulations/omnetpp-5.1.1/include
